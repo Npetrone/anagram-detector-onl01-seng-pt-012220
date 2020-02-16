@@ -8,7 +8,7 @@ class Anagram
   end
   
   def match(array)
-    %w(array)
+    %w(array).sort 
   end
   
   
