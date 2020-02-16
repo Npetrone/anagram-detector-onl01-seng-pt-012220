@@ -2,9 +2,10 @@
 
 
 class Anagram
-  attr_accessor :
-  
-  
+  attr_accessor :listen
+  def initialize(word)
+    
+  end
   
   
   
